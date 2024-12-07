@@ -1,4 +1,4 @@
-# Log Analysis System
+# Log Analysis Script
 
 ## Overview
 A robust log analysis tool that processes web server logs to identify patterns, potential security threats, and usage statistics. The system generates both CSV and HTML reports for easy data visualization and analysis.
